@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2402/1  ++  Valid period: 22/FEB/2024 - 20/MAR/2024  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
+;  AIRAC 2403/1  ++  Valid period: 21/MAR/2024 - 17/APR/2024  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
 ;=========================================================================================================================;
 VOICE
 AG:FHAW_M_TWR Wideawake Tower:126.200:novoice:FHAW_M_TWR
@@ -31,6 +31,7 @@ AG:FHSH_APP St Helena Approach:119.500:novoice:FHSH_APP
 AG:FHSH_TWR St Helena Tower:118.200:novoice:FHSH_TWR
 AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
 AG:FNBG_I_TWR Benguela Tower:118.700:novoice:FNBG_I_TWR
+AG:FNBJ_ATIS:130.900:novoice:FNBJ_ATIS
 AG:FNCA_TWR Cabinda Tower:118.300:novoice:FNCA_TWR
 AG:FNGI_I_TWR Ongiva Tower:118.700:novoice:FNGI_I_TWR
 AG:FNHU_I_TWR Huambo Tower:118.300:novoice:FNHU_I_TWR
