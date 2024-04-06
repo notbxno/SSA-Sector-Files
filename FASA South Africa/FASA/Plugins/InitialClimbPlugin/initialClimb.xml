@@ -17,6 +17,9 @@
 			<sid name="CTV">
 				<alt>090</alt>
 			</sid>
+			<sid name="VCT">
+				<alt>090</alt>
+			</sid>
 		</runway>
 		<runway name="19">
 			<sid name="TETAN">
@@ -32,6 +35,9 @@
 				<alt>090</alt>
 			</sid>
 			<sid name="CTV">
+				<alt>090</alt>
+			</sid>
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
 		</runway>
@@ -63,6 +69,41 @@
 				<alt>080</alt>
 			</sid>
 			<sid name="LIV">
+				<alt>080</alt>
+			</sid>
+			<sid name="VCT">
+				<alt>080</alt>
+			</sid>
+		</runway>
+		<runway name="03R">
+			<sid name="APDAK">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN1C">
+				<alt>090</alt>
+			</sid>
+			<sid name="EXOBI">
+				<alt>090</alt>
+			</sid>
+			<sid name="GAV">
+				<alt>080</alt>
+			</sid>
+			<sid name="NESAN">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="VASUR">
+				<alt>080</alt>
+			</sid>
+			<sid name="LIV">
+				<alt>080</alt>
+			</sid>
+			<sid name="VCT">
 				<alt>080</alt>
 			</sid>
 		</runway>
@@ -103,28 +144,60 @@
 			<sid name="NESAN">
 				<alt>080</alt>
 			</sid>
+			<sid name="VCT">
+				<alt>080</alt>
+			</sid>
+		</runway>
+				<runway name="21L">
+			<sid name="APDAK">
+				<alt>080</alt>
+			</sid>
+			<sid name="EGMEN1D">
+				<alt>090</alt>
+			</sid>
+			<sid name="EGMEN2B">
+				<alt>080</alt>
+			</sid>
+			<sid name="GAV">
+				<alt>080</alt>
+			</sid>
+			<sid name="GEROX">
+				<alt>080</alt>
+			</sid>
+			<sid name="HGV">
+				<alt>080</alt>
+			</sid>
+			<sid name="LIV1C">
+				<alt>080</alt>
+			</sid>
+			<sid name="OVALA">
+				<alt>080</alt>
+			</sid>
+			<sid name="RAGUL">
+				<alt>080</alt>
+			</sid>
+			<sid name="VASUR">
+				<alt>080</alt>
+			</sid>
+			<sid name="">
+				<alt>080</alt>
+			</sid>
+			<sid name="NESAN">
+				<alt>080</alt>
+			</sid>
+			<sid name="VCT">
+				<alt>080</alt>
+			</sid>
 		</runway>
 	</apt>
 	<apt icao="FALA">
 		<runway name="07">
-			<sid name="JSV">
-				<alt>080</alt>
-			</sid>
-			<sid name="RAGUL">
-				<alt>080</alt>
-			</sid>
-			<sid name="XAGEN">
+			<sid name="VCT">
 				<alt>080</alt>
 			</sid>
 		</runway>
 		<runway name="25">
-			<sid name="JSV">
-				<alt>080</alt>
-			</sid>
-			<sid name="RAGUL">
-				<alt>080</alt>
-			</sid>
-			<sid name="XAGEN">
+			<sid name="VCT">
 				<alt>080</alt>
 			</sid>
 		</runway>
@@ -137,6 +210,9 @@
 			<sid name="UNRAG">
 				<alt>200</alt>
 			</sid>
+			<sid name="VCT">
+				<alt>150</alt>
+			</sid>
 		</runway>
 		<runway name="20">
 			<sid name="OKPAG">
@@ -145,6 +221,9 @@
 			<sid name="UNRAG">
 				<alt>200</alt>
 			</sid>
+			<sid name="VCT">
+				<alt>150</alt>
+			</sid>
 		</runway>
 	</apt>
 	<apt icao="FABL">
@@ -152,7 +231,7 @@
 			<sid name="OKTIG">
 				<alt>140</alt>
 			</sid>
-			<sid name="BLV">
+			<sid name="VCT">
 				<alt>140</alt>
 			</sid>
 		</runway>
@@ -160,61 +239,59 @@
 			<sid name="OKTIG">
 				<alt>140</alt>
 			</sid>
-			<sid name="BLV">
+			<sid name="VCT">
 				<alt>140</alt>
 			</sid>
+		</runway>
+		<runway name="12">
+			<sid name="OKTIG">
+				<alt>140</alt>
+			</sid>
+			<sid name="VCT">
+				<alt>140</alt>
+			</sid>
+		<runway name="30">
+			<sid name="OKTIG">
+				<alt>140</alt>
+			</sid>
+			<sid name="VCT">
+				<alt>140</alt>
+			</sid>
+		</runway>
 		</runway>
 	</apt>
 	<apt icao="FAGG">
 		<runway name="11">
-			<sid name="KATOR">
-				<alt>090</alt>
-			</sid>
-			<sid name="GABGO">
-				<alt>090</alt>
-			</sid>
-			<sid name="ETBUL">
-				<alt>090</alt>
-			</sid>
-			<sid name="GRV">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
 		</runway>
 		<runway name="29">
-			<sid name="KATOR">
-				<alt>090</alt>
-			</sid>
-			<sid name="GABGO">
-				<alt>090</alt>
-			</sid>
-			<sid name="ETBUL">
-				<alt>090</alt>
-			</sid>
-			<sid name="GRV">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
 		</runway>
 	</apt>
 	<apt icao="FAPE">
 		<runway name="08">
-			<sid name="OKRAV">
-				<alt>090</alt>
-			</sid>
-			<sid name="ITKIT">
-				<alt>090</alt>
-			</sid>
-			<sid name="PEV">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
 		</runway>
 		<runway name="26">
-			<sid name="OKRAV">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
-			<sid name="ITKIT">
+		</runway>
+	</apt>
+	<apt icao="FDSK">
+		<runway name="02">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
-			<sid name="PEV">
+		</runway>
+		<runway name="20">
+			<sid name="VCT">
 				<alt>090</alt>
 			</sid>
 		</runway>
@@ -233,6 +310,9 @@
 			<sid name="TUBIN">
 				<alt>070</alt>
 			</sid>
+			<sid name="VCT">
+				<alt>070</alt>
+			</sid>
 		</runway>
 		<runway name="24">
 			<sid name="GYV">
@@ -245,6 +325,9 @@
 				<alt>070</alt>
 			</sid>
 			<sid name="TUBIN">
+				<alt>070</alt>
+			</sid>
+			<sid name="VCT">
 				<alt>070</alt>
 			</sid>
 		</runway>
